@@ -67,27 +67,6 @@
 </div>
 
 ---
-
-### 📈 Estadísticas de GitHub
-
-<div align="center">
-  <!-- Estos widgets se actualizan automáticamente leyendo tus aportes a GitHub -->
-  <img src="https://github-readme-stats.vercel.app/api?username=LizAndrea&show_icons=true&theme=transparent&hide_border=true&title_color=4695EB" alt="Estadísticas de Liz" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LizAndrea&theme=transparent&hide_border=true&ring=4695EB&fire=4695EB" alt="Racha de Commits" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LizAndrea&layout=compact&theme=transparent&hide_border=true&title_color=4695EB" alt="Lenguajes más usados" />
-</div>
-
----
 <p align="center">
   <i>"El código limpio siempre parece haber sido escrito por alguien a quien le importa." - Robert C. Martin</i>
 </p>
