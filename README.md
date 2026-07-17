@@ -1,6 +1,6 @@
 <div align="center">
-  <!-- Banner sutil y responsivo -->
-  <img src="https://images.unsplash.com/photo-1579546929518-9e396f3cc809?auto=format&fit=crop&w=1200&h=250&q=80" width="100%" alt="Banner Liz Andrea Ramos" style="border-radius: 10px;" />
+  <!-- Banner corporativo de tecnología generado a medida -->
+  <img src="./banner.jpg" width="100%" alt="Banner Liz Andrea Ramos" style="border-radius: 10px;" />
 </div>
 
 <h1 align="center">Hola, soy Liz Andrea Ramos 👋</h1>
