@@ -1,6 +1,6 @@
 <div align="center">
-  <!-- Puedes reemplazar el link de la imagen por un banner personalizado si gustas -->
-  <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80" width="100%" alt="Banner Liz Andrea Ramos" style="border-radius: 10px;" />
+  <!-- Banner sutil y responsivo -->
+  <img src="https://images.unsplash.com/photo-1579546929518-9e396f3cc809?auto=format&fit=crop&w=1200&h=250&q=80" width="100%" alt="Banner Liz Andrea Ramos" style="border-radius: 10px;" />
 </div>
 
 <h1 align="center">Hola, soy Liz Andrea Ramos 👋</h1>
@@ -72,14 +72,19 @@
 
 <div align="center">
   <!-- Estos widgets se actualizan automáticamente leyendo tus aportes a GitHub -->
-  <img src="https://github-readme-stats.vercel.app/api?username=LizAndrea&show_icons=true&theme=radium&hide_border=true" alt="Estadísticas de Liz" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LizAndrea&theme=radium&hide_border=true" alt="Racha de Commits" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LizAndrea&show_icons=true&theme=transparent&hide_border=true&title_color=4695EB" alt="Estadísticas de Liz" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LizAndrea&layout=compact&theme=radium&hide_border=true" alt="Lenguajes más usados" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LizAndrea&theme=transparent&hide_border=true&ring=4695EB&fire=4695EB" alt="Racha de Commits" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LizAndrea&layout=compact&theme=transparent&hide_border=true&title_color=4695EB" alt="Lenguajes más usados" />
 </div>
 
 ---
