@@ -66,7 +66,22 @@
   <img src="https://img.shields.io/badge/GitLab-330F53?style=flat-square&logo=gitlab&logoColor=white" />
 </div>
 
+<br>
+
+<div align="center">
+  <b>Inteligencia Artificial & Herramientas:</b><br>
+  <p align="center" style="font-size: 14px;">
+    Modelos (Gemini 3.5, GLM5) • Kilo Code (Kimi, Qwen) • Antigravity • Nano Banana • Flow<br>
+    <i>Manejo de CLI (VSCode, Antigravity) y desarrollo guiado por especificaciones con Speckit.</i>
+  </p>
+  <img src="https://img.shields.io/badge/Gemini_3.5-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Antigravity-4285F4?style=flat-square&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kilo_Code-FF5722?style=flat-square&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode_CLI-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Speckit-FFB300?style=flat-square&logo=lightning&logoColor=black" />
+</div>
+
 ---
 <p align="center">
-  <i>"El código limpio siempre parece haber sido escrito por alguien a quien le importa." - Robert C. Martin</i>
+  <i>"Si se puede imaginar, se puede desarrollar." - Liz Andrea Ramos</i>
 </p>
